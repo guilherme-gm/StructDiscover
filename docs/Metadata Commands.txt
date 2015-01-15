@@ -1,0 +1,15 @@
+Metadata field might contain special commands that modifies 
+the behaviour of how a field is read.
+
+Commands Syntax:
+Every command is show by "* commandName: parameters"
+Parameters are wrapped by < and >, but they must not
+be written in the tool.
+
+Currently, there's only 1 command:
+
+* val:<field name>
+Returns the value of field <field name>
+
+Example:
+	val:count // Returns the value of count field

@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Documents\StructDiscover\StructDiscover\bin\Debug\Struct Discover.exe.config
+C:\Users\Guilherme\Documents\StructDiscover\StructDiscover\bin\Debug\Struct Discover.exe
+C:\Users\Guilherme\Documents\StructDiscover\StructDiscover\bin\Debug\Struct Discover.pdb
+C:\Users\Guilherme\Documents\StructDiscover\StructDiscover\obj\Debug\Structurer.form_main.resources
+C:\Users\Guilherme\Documents\StructDiscover\StructDiscover\obj\Debug\Struct_Discover.Properties.Resources.resources
+C:\Users\Guilherme\Documents\StructDiscover\StructDiscover\obj\Debug\Struct Discover.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Documents\StructDiscover\StructDiscover\obj\Debug\Struct Discover.exe
+C:\Users\Guilherme\Documents\StructDiscover\StructDiscover\obj\Debug\Struct Discover.pdb

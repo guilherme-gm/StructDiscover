@@ -1,0 +1,8 @@
+Int32		id
+String	6	name
+Int16		type
+Int32		count
+Block	val:count	subs
+Int32		id
+String	5	msg
+BlockEnd		

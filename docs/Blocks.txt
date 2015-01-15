@@ -1,0 +1,17 @@
+A block is a special structure used to repeat smaller parts of a structure,
+for example, if you have a file that store customer names and a list of
+products they have bought, the customers are in the main block while
+each product is a block inside it.
+
+Block
+====================
+Starts a Block
+Its name will be used as prefix when showing the results.
+
+Metadata: How many times this block will be repeated.
+(in the example, the number of products)
+
+BlockEnd
+====================
+Ends the last declared Block
+Neither its name nor metadata field has a function

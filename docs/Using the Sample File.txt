@@ -1,0 +1,28 @@
+The sample contains a small file (file.bin), with the following data:
+
+id: 100
+name: Test
+type: 35
+count: 3
+
+// Block subs - repeat 3 times
+subs0.id: 10
+subs0.msg: Lorem
+
+subs1.id: 12
+subs1.msg: Ipsum
+
+subs2.id: 14
+subs2.msg: Dolor
+// End of Block
+
+(The count field means how many subs block there is in next line)
+
+And a struct file (struct.txt), that contains a structure file to read this file.
+
+=====================
+
+To use it, just open the tool, go to "File > Open File" and choose "file.bin".
+Now, go to "File > Open Struct" and choose "struct.txt".
+
+After both are loaded, click Parse File, and the result will appear in result box.
